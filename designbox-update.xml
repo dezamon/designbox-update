@@ -2,9 +2,9 @@
 <channel>
 <title>DesignBox</title>
 <item>
-<title>2.3</title>
-<pubDate>金, 19 7月 2019 00:36:35 +0900</pubDate>
+<title>2.1</title>
+<pubDate>金, 19 7月 2019 19:28:40 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="1" sparkle:shortVersionString="2.3" length="14716312" type="application/octet-stream" sparkle:edSignature="u/c6M1bneua43F39Mb8Xsp1O48QNXb+ts+ZEZ48jp6o6dkbKAaV4UigN6oNSc+GJweAPWN0+2p6JUPD6fN/VDQ=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="1" sparkle:shortVersionString="2.1" length="14716263" type="application/octet-stream" sparkle:edSignature="iJHne+nIP2Gg96NVv69Z7PMRA0nJ5v1xts8KyXipgssyrUvMakt9cxj2w1bpViARNFTOW8BioGfErdztO6g1Aw=="/>
 </item>
 </channel></rss>
