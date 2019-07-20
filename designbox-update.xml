@@ -2,14 +2,14 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 2.5</title>
+<title>DesignBox 2.6</title>
 	<description>
 	<![CDATA[
-	  <ul> <li>Fix searchbar placeholder text</li> </ul>
+	  <ul> <li>Change the style of searchbar</li> </ul>
 	]]>
 	</description>
-<pubDate>金, 19 7月 2019 20:58:08 +0900</pubDate>
+<pubDate>土, 20 7月 2019 12:12:13 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="2.5" sparkle:shortVersionString="2.5" length="14716258" type="application/octet-stream" sparkle:edSignature="ZQf/z/hMW2j8zwegTE9ere7IJsngFmRAbKfbsZfvRVhOsRSwHLEgvSTzgVNZtzOUI8u7NX30L5dVXj5nl/hcBA=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="2.6" sparkle:shortVersionString="2.6" length="14716921" type="application/octet-stream" sparkle:edSignature="z0pYzXGcHxfnUgEwcdV0zTe6Ym8D/EPMM8/r0xoTlC2YZDi1Njq5AO6FpwjcJ6OYRIrPakTrpBnUbdtiavW+CQ=="/>
 </item>
 </channel></rss>
