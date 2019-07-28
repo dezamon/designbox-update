@@ -2,14 +2,14 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 2.8</title>
+<title>DesignBox 2.9</title>
 	<description>
 	<![CDATA[
 	  <ul> <li>Fixed some bugs</li> </ul>
 	]]>
 	</description>
-<pubDate>日, 28 7月 2019 12:25:51 +0900</pubDate>
+<pubDate>日, 28 7月 2019 12:58:44 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="3" sparkle:shortVersionString="2.9" length="14716960" type="application/octet-stream" sparkle:edSignature="OiITuVxI5QK3e7251Tc0D0I8bik0orIQ6poVUGg/REaD+bwXx7YK+HARSSHryjvsm1aziM2Vu76aRPt9Tc84DA=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="4" sparkle:shortVersionString="2.9" length="14716929" type="application/octet-stream" sparkle:edSignature="hdsi3PyP/za9hsGbxR2CzzI9FOvg8f+0IhAQcQiB4rXs8YPdPUUw/ByyHFqj0f9HMarAQr4mhARY93LGuESKCA=="/>
 </item>
 </channel></rss>
