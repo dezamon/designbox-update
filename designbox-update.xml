@@ -2,14 +2,14 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 2.7</title>
+<title>DesignBox 2.8</title>
 	<description>
 	<![CDATA[
-	  <ul> <li>Change behavior when select the list</li> </ul>
+	  <ul> <li>Fixed some bugs</li> </ul>
 	]]>
 	</description>
-<pubDate>土, 27 7月 2019 22:31:06 +0900</pubDate>
+<pubDate>日, 28 7月 2019 12:25:51 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="4" sparkle:shortVersionString="2.7" length="14716671" type="application/octet-stream" sparkle:edSignature="UMcvkXehN4nfEJjCfOKKxCoTXp+I+goJveQn2ejlcYDkVlPYrI0xrnwjAYHic4Abtb1LsuSKgB2uBbu94FCwAA=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="4" sparkle:shortVersionString="2.8" length="14716960" type="application/octet-stream" sparkle:edSignature="OiITuVxI5QK3e7251Tc0D0I8bik0orIQ6poVUGg/REaD+bwXx7YK+HARSSHryjvsm1aziM2Vu76aRPt9Tc84DA=="/>
 </item>
 </channel></rss>
