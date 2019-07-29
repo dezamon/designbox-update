@@ -2,14 +2,14 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 3.0</title>
+<title>DesignBox 3.0.1</title>
 	<description>
 	<![CDATA[
-	  <ul> <li>Fix the monitoring system for the subscription.</li> </ul>
+	  <ul> <li>Fix minor bug</li> </ul>
 	]]>
 	</description>
-<pubDate>月, 29 7月 2019 00:57:27 +0900</pubDate>
+<pubDate>火, 30 7月 2019 00:04:51 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="5" sparkle:shortVersionString="3.0" length="14717114" type="application/octet-stream" sparkle:edSignature="RmMRFXCWMRIbfu5RJe0ItZSczUsj7gQzbedSUs/qfAKU1TY1b1WoO11L05aVnx/eJprSheTT7aY0xGxRHiypDA=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="6" sparkle:shortVersionString="3.0.1" length="14717300" type="application/octet-stream" sparkle:edSignature="ugh/V0KXGO4icIYgmuvxmiMrNhLlHUKPVvWc3n2O0B+Ut52NShrGitR+HseiBaoWT5xeWmg9mbBSn0IUvh6fCg=="/>
 </item>
 </channel></rss>
