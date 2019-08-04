@@ -2,14 +2,18 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 3.0.2</title>
+<title>DesignBox 3.1</title>
 	<description>
 	<![CDATA[
-	  <ul> <li>Fix minor bug</li> </ul>
+	  <ul>
+	  	<li>Changed the sound for a done status of a task.</li> 
+	  	<li>Add the function that a task can be deleted by "delete" key.</li> 
+	  	<li>Fixed the code to prevent terminating the app when the close button is clicked.</li> 
+	  </ul>
 	]]>
 	</description>
-<pubDate>火, 30 7月 2019 00:16:49 +0900</pubDate>
+<pubDate>日, 04 8月 2019 23:12:20 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="7" sparkle:shortVersionString="3.0.2" length="14717037" type="application/octet-stream" sparkle:edSignature="z1I7XqYh0mDSPNr3t0YfUET4d5VRyeC0rJv3MH3n0ulbm45jyXx9/oEW7LesAVrxvtBrgs/z3VmQNmZBP307Bw=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="8" sparkle:shortVersionString="3.1" length="14720215" type="application/octet-stream" sparkle:edSignature="JfcLJ+/K6wafB0rZjfww5R2cMWY20k+YefMOXfvqM18HWwMVWUk8HHrRQandDZgSGuklppxNWHhrnK5RLtOWDA=="/>
 </item>
 </channel></rss>
