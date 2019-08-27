@@ -2,17 +2,17 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 3.2</title>
+<title>DesignBox 3.2.1</title>
 	<description>
 	<![CDATA[
 	  <ul>
-	  	<li>Add real-time sync feature to work on your multiple devices.</li> 
-	  	<li>Support Dropbox folder to be more friendly.</li>
+	  	<li>Japanese localization.</li> 
+	  	<li>Added a confirmation window for deleting a file.</li>
 	  </ul>
 	]]>
 	</description>
-<pubDate>木, 22 8月 2019 12:50:25 +0900</pubDate>
+<pubDate>火, 27 8月 2019 22:30:14 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="11" sparkle:shortVersionString="3.2" length="14734003" type="application/octet-stream" sparkle:edSignature="09ViPyaSYmvt8mVU1ouZWa/kDEazELRH+tq0gB5c+vz/VW6JDxCDaRbKQADoCLy3bIOLOEL2l6d7M1DXP/2tAg=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="12" sparkle:shortVersionString="3.2.1" length="14747132" type="application/octet-stream" sparkle:edSignature="zPPx2nofPueiOUWuiV4V8ssI+lzaaGar1DCJV+MA1hElXSvFxSoLPW7GA5B2Z3cFmUrqomCbzb4C85d7jH/dCw=="/>
 </item>
 </channel></rss>
