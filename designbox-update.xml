@@ -2,17 +2,17 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 3.2.4</title>
+<title>DesignBox 3.3</title>
 	<description>
 	<![CDATA[
 	  <ul>
-	  	<li>Fix some minor bugs.</li> 
-	  	<li>Add reload button.</li>
+	  	<li>Add a task duplication function</li> 
+	  	<li>Add a button to import assets.</li>
 	  </ul>
 	]]>
 	</description>
-<pubDate>日, 06 10月 2019 22:57:57 +0900</pubDate>
+<pubDate>水, 04 12月 2019 23:18:12 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="15" sparkle:shortVersionString="3.2.4" length="14976298" type="application/octet-stream" sparkle:edSignature="5/a1FOPeROdqBu1g199TAL6dPHpZJhvTInf4aijYAaAfYwG3MZQ8fQkoLXtwQ1o1U3gLoAgoL1kESAWUBPlMBA=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="16" sparkle:shortVersionString="3.3" length="15006106" type="application/octet-stream" sparkle:edSignature="OEYPlGTZVyErraMoGrugjq3g3fuxy4LLLTBCDwjPoID11jkLBW1F4PmEQ3xVYAtsBNCMdqTBvw7VV5MpBCuABg=="/>
 </item>
 </channel></rss>
