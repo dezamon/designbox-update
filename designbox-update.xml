@@ -2,19 +2,16 @@
 <channel>
 <title>DesignBox changelog</title>
 <item>
-<title>DesignBox 3.3</title>
-
-<description>
-<![CDATA[
-<ul>
-<li>Add a task duplication function.</li> 
-<li>Add a button to import assets.</li>
-</ul>
-]]>
-</description>
-
-<pubDate>木, 05 12月 2019 00:08:09 +0900</pubDate>
+<title>DesignBox 3.4</title>
+	<description>
+	<![CDATA[
+	  <ul>
+	  	<li>Added the tutorial for beginner</li> 
+	  </ul>
+	]]>
+	</description>
+<pubDate>Sun, 02 Feb 2020 00:05:18 +0900</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="16" sparkle:shortVersionString="3.3" length="15005527" type="application/octet-stream" sparkle:edSignature="9W1gCD9PWudpmdhtKsnFM4hyGOFz8YZlQ4wIbMNCm0n/KG+7d6uMMD2v5Z/+RAUlsEPM5Qx/F2IvxWJoJMHYCg=="/>
+<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="17" sparkle:shortVersionString="3.4" length="15022258" type="application/octet-stream"/>
 </item>
 </channel></rss>
