@@ -1,19 +1,17 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>DesignBox 3.3</title>
-<description>
-<![CDATA[
-<ul>
-<li>Add a task duplication function.</li> 
-<li>Add a button to import assets.</li>
-</ul>
-]]>
-</description>
-
-<pubDate>木, 05 12月 2019 00:08:09 +0900</pubDate>
-
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="16" sparkle:shortVersionString="3.3" length="15005527" type="application/octet-stream" sparkle:edSignature="9W1gCD9PWudpmdhtKsnFM4hyGOFz8YZlQ4wIbMNCm0n/KG+7d6uMMD2v5Z/+RAUlsEPM5Qx/F2IvxWJoJMHYCg=="/>
-
-</item>
-</channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+	<title>DesignBox changelog</title>
+	<item>
+		<title>DesignBox 3.4.1</title>
+		<description>
+		<![CDATA[
+		  <ul> <li>Add the manual</li> </ul>
+		]]>
+		</description>
+        <pubDate>火, 11 2月 2020 22:20:30 +0900</pubDate>
+        <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+        <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="18" sparkle:shortVersionString="3.4.1" length="13516201" type="application/octet-stream" sparkle:edSignature="APVjVZn6Ez6VlzNI5pJtEOecL68KzwiWH8BHdxOzbSFEFbkQH1zjeXBdmYDrD4Y2cqvhQWt14DRgop/M4RVSDQ=="/>
+        </item>
+    </channel>
+</rss>
