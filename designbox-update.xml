@@ -3,15 +3,15 @@
     <channel>
 	<title>DesignBox changelog</title>
 	<item>
-		<title>DesignBox 3.4.1</title>
+		<title>DesignBox 3.5</title>
 		<description>
 		<![CDATA[
-		  <ul> <li>Add the manual</li> </ul>
+		  <ul> <li>Add new feature to search the list by keyword.</li> </ul>
 		]]>
 		</description>
-        <pubDate>火, 11 2月 2020 22:20:30 +0900</pubDate>
-        <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-        <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="18" sparkle:shortVersionString="3.4.1" length="13516201" type="application/octet-stream" sparkle:edSignature="APVjVZn6Ez6VlzNI5pJtEOecL68KzwiWH8BHdxOzbSFEFbkQH1zjeXBdmYDrD4Y2cqvhQWt14DRgop/M4RVSDQ=="/>
+            <pubDate>金, 14 2月 2020 22:47:09 +0900</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="19" sparkle:shortVersionString="3.5" length="13519881" type="application/octet-stream" sparkle:edSignature="kjtsZ3vu3jztcmY70UDjprYhKbHghfRUltfndmttfRkuN8OnJjDsV5ELTlpKMXBr0gLLzjI9R8BHPUHVE49UDw=="/>
         </item>
     </channel>
 </rss>
