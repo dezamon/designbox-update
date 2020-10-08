@@ -1,17 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-	<title>DesignBox changelog</title>
-	<item>
-		<title>DesignBox 3.5.1</title>
-		<description>
-		<![CDATA[
-		  <ul> <li>Fixed some minor bugs</li> </ul>
-		]]>
-		</description>
-            <pubDate>金, 21 2月 2020 00:12:10 +0900</pubDate>
+        <title>DesignBox</title>
+        <item>
+            <title>3.5.2</title>
+            <description>
+            <![CDATA[
+              <ul> <li>Fix some miner bugs</li> </ul>
+            ]]>
+            </description>
+            <pubDate>木, 08 10月 2020 21:26:35 +0900</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="20" sparkle:shortVersionString="3.5.1" length="13518883" type="application/octet-stream" sparkle:edSignature="d7WltmHaA47GSmCKz9WVDbCixaYL5ldM5sU82K86ZMqiOajkihWC65w3EwK/L2UTws/JylaqNKGpZ6D3HmTQBw=="/>
+            <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="21" sparkle:shortVersionString="3.5.2" length="13517364" type="application/octet-stream" sparkle:edSignature="ygMvVy4pXNYjkfIyMBejp+BvnwMKwbjp+Fr+xCY2Lznv4jMHBt2KFCl/TifwnSnzm3QDYKu9g7QFbw8M+l/lDg=="/>
         </item>
     </channel>
 </rss>
