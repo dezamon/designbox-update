@@ -3,15 +3,17 @@
     <channel>
         <title>DesignBox</title>
         <item>
-            <title>3.5.2</title>
-            <description>
-            <![CDATA[
-              <ul> <li>Fix some miner bugs</li> </ul>
-            ]]>
-            </description>
-            <pubDate>木, 08 10月 2020 21:26:35 +0900</pubDate>
+            <title>3.5.3</title>
+            <description>
+            <![CDATA[
+              <ul> <li>Improved the UX when adding a new list</li>
+                    <li>Fixed the bugs for searching the task by keyword</li>
+            </ul>
+            ]]>
+            </description>
+            <pubDate>日, 01 11月 2020 20:01:16 +0900</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="21" sparkle:shortVersionString="3.5.2" length="13517364" type="application/octet-stream" sparkle:edSignature="ygMvVy4pXNYjkfIyMBejp+BvnwMKwbjp+Fr+xCY2Lznv4jMHBt2KFCl/TifwnSnzm3QDYKu9g7QFbw8M+l/lDg=="/>
+            <enclosure url="https://dezamon.github.io/designbox-update/DesignBox.zip" sparkle:version="22" sparkle:shortVersionString="3.5.3" length="13518927" type="application/octet-stream" sparkle:edSignature="0MrE0w+TRndE1eb+rWEDUbXy/+Q7wuECMqydWg0CNBZ657ygjQSP+iew/NlB5osWfPf+UBZHhmt0PjgRgvcgAA=="/>
         </item>
     </channel>
 </rss>
